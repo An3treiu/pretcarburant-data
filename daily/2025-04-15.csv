@@ -1,0 +1,4 @@
+date,fuel_type,price_min,price_avg,price_max,station_count
+2025-04-15,benzina_standard,7.20,7.35,7.55,500
+2025-04-15,gpl,3.43,3.58,3.78,500
+2025-04-15,motorina_standard,7.32,7.47,7.67,500

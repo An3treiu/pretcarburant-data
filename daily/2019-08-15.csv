@@ -1,0 +1,4 @@
+date,fuel_type,price_min,price_avg,price_max,station_count
+2019-08-15,benzina_standard,5.46,5.61,5.81,500
+2019-08-15,gpl,2.82,2.97,3.17,500
+2019-08-15,motorina_standard,5.81,5.96,6.16,500

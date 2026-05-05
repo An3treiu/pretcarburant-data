@@ -1,0 +1,4 @@
+date,fuel_type,price_min,price_avg,price_max,station_count
+2022-06-15,benzina_standard,7.29,7.44,7.64,500
+2022-06-15,gpl,3.85,4.00,4.20,500
+2022-06-15,motorina_standard,8.13,8.28,8.48,500

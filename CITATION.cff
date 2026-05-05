@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "Romania Fuel Price History — Daily National Aggregates"
+message: "If you use this dataset, please cite it using the metadata below."
+authors:
+  - family-names: Stoian
+    given-names: Andrei-Serban
+    affiliation: PretCarburant.ro
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+type: dataset
+license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19560194
+    description: Concept DOI (always points to the latest version)
+url: "https://github.com/An3treiu/pretcarburant-data"
+repository-code: "https://github.com/An3treiu/pretcarburant-data"
+repository: "https://zenodo.org/doi/10.5281/zenodo.19560194"
+abstract: >-
+  Open daily aggregates of retail fuel prices in Romania covering petrol
+  (standard and premium), diesel (standard and premium) and LPG. Data
+  combines official ANPC sources with direct retailer feeds and
+  station-level monitoring of 1500+ locations across 8 networks. National
+  daily snapshots include minimum, weighted average and maximum prices in
+  RON per litre, plus station counts.
+keywords:
+  - Romania
+  - fuel prices
+  - petrol
+  - diesel
+  - LPG
+  - open data
+  - energy economics
+  - retail prices
+  - benchmarking
+  - ANPC
+preferred-citation:
+  type: dataset
+  authors:
+    - family-names: Stoian
+      given-names: Andrei-Serban
+  title: "Romania Fuel Price History — Daily National Aggregates"
+  year: 2026
+  doi: 10.5281/zenodo.19560194
+  url: "https://github.com/An3treiu/pretcarburant-data"

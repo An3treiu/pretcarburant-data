@@ -1,0 +1,4 @@
+date,fuel_type,price_min,price_avg,price_max,station_count
+2016-03-15,benzina_standard,4.81,4.96,5.16,500
+2016-03-15,gpl,2.00,2.15,2.35,500
+2016-03-15,motorina_standard,4.69,4.84,5.04,500

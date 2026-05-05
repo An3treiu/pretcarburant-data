@@ -1,0 +1,4 @@
+date,fuel_type,price_min,price_avg,price_max,station_count
+2020-06-15,benzina_standard,4.71,4.86,5.06,500
+2020-06-15,gpl,2.45,2.60,2.80,500
+2020-06-15,motorina_standard,4.52,4.67,4.87,500
