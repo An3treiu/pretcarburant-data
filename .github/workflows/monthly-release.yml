@@ -1,0 +1,76 @@
+name: Monthly data release
+
+on:
+  schedule:
+    # 03:30 UTC pe data de 1 a fiecarei luni — arhiveaza luna precedenta
+    - cron: '30 3 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Compute previous month
+        id: prev
+        run: |
+          PREV=$(date -u -d "$(date -u +%Y-%m-15) -1 month" +%Y.%m)
+          PREV_LABEL=$(date -u -d "$(date -u +%Y-%m-15) -1 month" +%Y-%m)
+          echo "tag=v${PREV}" >> "$GITHUB_OUTPUT"
+          echo "label=${PREV_LABEL}" >> "$GITHUB_OUTPUT"
+
+      - name: Build release notes
+        id: notes
+        run: |
+          LABEL="${{ steps.prev.outputs.label }}"
+          MONTHLY_FILE="monthly/${LABEL}-cumulative.csv"
+          LATEST_FILE="monthly/cumulative-latest.csv"
+          ROWS=0
+          if [ -f "$LATEST_FILE" ]; then
+            ROWS=$(($(wc -l < "$LATEST_FILE") - 1))
+          fi
+          MONTH_ROWS=0
+          if [ -f "$MONTHLY_FILE" ]; then
+            MONTH_ROWS=$(($(wc -l < "$MONTHLY_FILE") - 1))
+          fi
+          DAYS=$(ls daily/${LABEL}-*.csv 2>/dev/null | wc -l)
+          {
+            echo "Snapshot lunar al setului de date PretCarburant pentru ${LABEL}."
+            echo
+            echo "## Continut"
+            echo "- Zile noi adaugate: ${DAYS}"
+            echo "- Total cumulativ randuri: ${ROWS}"
+            echo "- Cumulativ pana la finalul lunii ${LABEL}: ${MONTH_ROWS}"
+            echo
+            echo "## Fisiere principale"
+            echo "- daily/ — agregate zilnice (min/avg/max + numar statii pe tip combustibil)"
+            echo "- monthly/${LABEL}-cumulative.csv — istoric cumulativ pana la finalul lunii ${LABEL}"
+            echo "- monthly/cumulative-latest.csv — istoric cumulativ complet la momentul release-ului"
+            echo
+            echo "## Citare"
+            echo "Stoian, A.-S. (${LABEL%-*}). PretCarburant Open Data — set de date preturi carburanti Romania. Zenodo. https://doi.org/10.5281/zenodo.19560194"
+            echo
+            echo "Licenta: CC-BY 4.0."
+          } > NOTES.md
+          echo "notes_path=NOTES.md" >> "$GITHUB_OUTPUT"
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="${{ steps.prev.outputs.tag }}"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release $TAG already exists; skipping."
+            exit 0
+          fi
+          gh release create "$TAG" \
+            --title "PretCarburant Open Data ${TAG#v}" \
+            --notes-file NOTES.md \
+            --target main
