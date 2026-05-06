@@ -29,13 +29,13 @@
 
 | Folder | Conținut | Cadență |
 |---|---|---|
-| **`monthly/cumulative-latest.csv`** | Istoric complet, un singur fișier | actualizat zilnic |
-| `monthly/YYYY-MM-cumulative.csv` | Snapshot lunar (artefact Zenodo release) | lunar, pe 1 ale lunii |
-| `daily/YYYY-MM-DD.csv` | Snapshot zilnic la nivel național | zilnic, ~23:00 EET |
-| `schema/columns.md` | Documentație coloane CSV | versionat |
-| `examples/` | Cod gata de copiat (Python, R, Excel) | versionat |
-| `METHODOLOGY.md` | Detalii pipeline + reguli validare | versionat |
-| `CITATION.cff` | Metadate citare academică | versionat |
+| **** | Istoric complet, un singur fișier | actualizat zilnic |
+|  | Snapshot lunar (artefact Zenodo release) | lunar, pe 1 ale lunii |
+|  | Snapshot zilnic la nivel național | zilnic, ~23:00 EET |
+|  | Documentație coloane CSV | versionat |
+|  | Cod gata de copiat (Python, R, Excel) | versionat |
+|  | Detalii pipeline + reguli validare | versionat |
+|  | Metadate citare academică | versionat |
 
 ---
 
@@ -43,32 +43,17 @@
 
 ### Python (pandas)
 
-```python
-import pandas as pd
 
-URL = 'https://raw.githubusercontent.com/An3treiu/pretcarburant-data/main/monthly/cumulative-latest.csv'
-df = pd.read_csv(URL, parse_dates=['date'])
-
-# Evoluția mediei la motorină standard pe ultimele 12 luni
-diesel = df[df.fuel_type == 'motorina_standard']
-print(diesel.groupby(diesel.date.dt.to_period('M'))['price_avg'].mean().tail(12))
-```
 
 ### R
 
-```r
-library(readr); library(dplyr)
-df <- read_csv('https://raw.githubusercontent.com/An3treiu/pretcarburant-data/main/monthly/cumulative-latest.csv')
-df %>% filter(fuel_type == 'motorina_standard') %>% tail()
-```
+
 
 ### Excel / Google Sheets
 
-```
-=IMPORTDATA("https://raw.githubusercontent.com/An3treiu/pretcarburant-data/main/monthly/cumulative-latest.csv")
-```
 
-Mai multe exemple: [`examples/`](examples/).
+
+Mai multe exemple: [](examples/).
 
 ---
 
@@ -78,18 +63,18 @@ CSV-ul are 6 coloane stabile:
 
 | # | Coloană | Tip | Exemplu | Descriere |
 |---|---|---|---|---|
-| 1 | `date` | `YYYY-MM-DD` | `2026-05-05` | Data de referință (Europe/Bucharest) |
-| 2 | `fuel_type` | enum | `motorina_standard` | Vezi enumerarea de mai jos |
-| 3 | `price_min` | float, RON/L | `9.13` | Minim observat în acea zi |
-| 4 | `price_avg` | float, RON/L | `9.85` | Medie pe stațiile raportoare |
-| 5 | `price_max` | float, RON/L | `10.49` | Maxim observat |
-| 6 | `station_count` | int | `1432` | Stații care au contribuit |
+| 1 | Wed May  6 08:31:04 GTBDT 2026 |  |  | Data de referință (Europe/Bucharest) |
+| 2 |  | enum |  | Vezi enumerarea de mai jos |
+| 3 |  | float, RON/L |  | Minim observat în acea zi |
+| 4 |  | float, RON/L |  | Medie pe stațiile raportoare |
+| 5 |  | float, RON/L |  | Maxim observat |
+| 6 |  | int |  | Stații care au contribuit |
 
-**Tipuri de combustibil:** `benzina_standard`, `benzina_premium`, `motorina_standard`, `motorina_premium`, `gpl`.
+**Tipuri de combustibil:** , , , , .
 
 Prețurile sunt brute, includ TVA, accize și toate taxele — așa cum apar pe panoul de la pompă.
 
-Pentru detalii complete (validare, encoding, stabilitate), vezi [`schema/columns.md`](schema/columns.md).
+Pentru detalii complete (validare, encoding, stabilitate), vezi [](schema/columns.md).
 
 ---
 
@@ -103,37 +88,28 @@ Trei surse independente, combinate la fiecare 2 ore:
 
 Cele trei feed-uri sunt unificate cu potrivire geo în mai mulți pași (200m → 500m → 800m), filtrate pentru outlieri (praguri explicit documentate), apoi agregate.
 
-Detalii complete: [`METHODOLOGY.md`](METHODOLOGY.md) și [pretcarburant.ro/metodologie](https://pretcarburant.ro/metodologie).
+Detalii complete: [](METHODOLOGY.md) și [pretcarburant.ro/metodologie](https://pretcarburant.ro/metodologie).
 
 ---
 
 ## Cadență
 
-| Eveniment | Când | Format |
+| Evenimet | Când | Format |
 |---|---|---|
-| Commit zilnic în `daily/` | ~23:00 EET, automat | un CSV nou pe zi |
-| Refresh `cumulative-latest.csv` | la fiecare commit zilnic | suprascris |
-| Release tagged `vYYYY.MM` pe GitHub | pe 1 ale lunii | tag + release notes |
+| Commit zilnic în  | ~23:00 EET, automat | un CSV nou pe zi |
+| Refresh  | la fiecare commit zilnic | suprascris |
+| Release tagged  pe GitHub | pe 1 ale lunii | tag + release notes |
 | Versiune nouă pe Zenodo | la fiecare release tag | DOI versiune nouă, automat |
 
-DOI-ul concept `10.5281/zenodo.19560194` rămâne stabil și pointează întotdeauna la cea mai recentă versiune.
+DOI-ul concept  rămâne stabil și pointează întotdeauna la cea mai recentă versiune.
 
 ---
 
 ## Citare
 
-Dacă folosești acest set de date într-o lucrare, articol sau raport, folosește citarea de mai jos. Pentru metadate procesabile automat, vezi [`CITATION.cff`](CITATION.cff).
+Dacă folosești acest set de date într-o lucrare, articol sau raport, folosește citarea de mai jos. Pentru metadate procesabile automat, vezi [](CITATION.cff).
 
-```bibtex
-@dataset{stoian_2026_pretcarburant_data,
-  author    = {Stoian, Andrei-Serban},
-  title     = {Romania Fuel Price History — Daily National Aggregates},
-  year      = 2026,
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.19560194},
-  url       = {https://github.com/An3treiu/pretcarburant-data}
-}
-```
+
 
 ---
 
