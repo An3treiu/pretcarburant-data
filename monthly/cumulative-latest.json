@@ -1,0 +1,6290 @@
+[
+ {
+  "date": "2026-03-18",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.58",
+  "price_avg": "8.74",
+  "price_max": "8.99",
+  "station_count": "1415"
+ },
+ {
+  "date": "2026-03-18",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.03",
+  "price_max": "6.00",
+  "station_count": "368"
+ },
+ {
+  "date": "2026-03-18",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.07",
+  "price_avg": "9.30",
+  "price_max": "9.51",
+  "station_count": "1416"
+ },
+ {
+  "date": "2026-03-19",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.58",
+  "price_avg": "8.74",
+  "price_max": "8.99",
+  "station_count": "1415"
+ },
+ {
+  "date": "2026-03-19",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.03",
+  "price_max": "6.00",
+  "station_count": "368"
+ },
+ {
+  "date": "2026-03-19",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.07",
+  "price_avg": "9.30",
+  "price_max": "9.51",
+  "station_count": "1416"
+ },
+ {
+  "date": "2026-03-20",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.67",
+  "price_max": "10.10",
+  "station_count": "1244"
+ },
+ {
+  "date": "2026-03-20",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.76",
+  "price_avg": "8.99",
+  "price_max": "9.22",
+  "station_count": "1414"
+ },
+ {
+  "date": "2026-03-20",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.05",
+  "price_max": "6.00",
+  "station_count": "367"
+ },
+ {
+  "date": "2026-03-20",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.11",
+  "price_max": "10.65",
+  "station_count": "1334"
+ },
+ {
+  "date": "2026-03-20",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.35",
+  "price_avg": "9.65",
+  "price_max": "9.94",
+  "station_count": "1415"
+ },
+ {
+  "date": "2026-03-21",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.78",
+  "price_max": "10.38",
+  "station_count": "1245"
+ },
+ {
+  "date": "2026-03-21",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.76",
+  "price_avg": "9.10",
+  "price_max": "9.32",
+  "station_count": "1414"
+ },
+ {
+  "date": "2026-03-21",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.05",
+  "price_max": "6.00",
+  "station_count": "367"
+ },
+ {
+  "date": "2026-03-21",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.27",
+  "price_max": "10.80",
+  "station_count": "1334"
+ },
+ {
+  "date": "2026-03-21",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.35",
+  "price_avg": "9.81",
+  "price_max": "10.09",
+  "station_count": "1415"
+ },
+ {
+  "date": "2026-03-22",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.85",
+  "price_max": "10.38",
+  "station_count": "1245"
+ },
+ {
+  "date": "2026-03-22",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.76",
+  "price_avg": "9.18",
+  "price_max": "9.36",
+  "station_count": "1414"
+ },
+ {
+  "date": "2026-03-22",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.06",
+  "price_max": "6.00",
+  "station_count": "367"
+ },
+ {
+  "date": "2026-03-22",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.36",
+  "price_max": "10.80",
+  "station_count": "1333"
+ },
+ {
+  "date": "2026-03-22",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.35",
+  "price_avg": "9.91",
+  "price_max": "10.09",
+  "station_count": "1414"
+ },
+ {
+  "date": "2026-03-23",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.86",
+  "price_max": "10.38",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-23",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.76",
+  "price_avg": "9.18",
+  "price_max": "9.37",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-23",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.10",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-23",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.37",
+  "price_max": "10.85",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-23",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.35",
+  "price_avg": "9.92",
+  "price_max": "10.14",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-03-24",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.86",
+  "price_max": "10.38",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-24",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.93",
+  "price_avg": "9.19",
+  "price_max": "9.37",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-24",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.10",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-24",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.43",
+  "price_max": "10.95",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-24",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.59",
+  "price_avg": "9.98",
+  "price_max": "10.24",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-03-25",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.93",
+  "price_max": "10.40",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-25",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.13",
+  "price_avg": "9.25",
+  "price_max": "9.52",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-25",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.10",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-25",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.51",
+  "price_max": "11.01",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-25",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.79",
+  "price_avg": "10.06",
+  "price_max": "10.33",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-03-26",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.99",
+  "price_max": "10.40",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-26",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.13",
+  "price_avg": "9.32",
+  "price_max": "9.66",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-26",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.10",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-26",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.65",
+  "price_max": "11.10",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-26",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.99",
+  "price_avg": "10.17",
+  "price_max": "10.46",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-03-27",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.02",
+  "price_max": "10.45",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-27",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.13",
+  "price_avg": "9.35",
+  "price_max": "9.66",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-27",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.12",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-27",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.66",
+  "price_max": "11.15",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-27",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.99",
+  "price_avg": "10.20",
+  "price_max": "10.46",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-03-28",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.03",
+  "price_max": "10.45",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-28",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.19",
+  "price_avg": "9.35",
+  "price_max": "9.66",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-28",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.12",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-28",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.79",
+  "price_max": "11.25",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-28",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.99",
+  "price_avg": "10.33",
+  "price_max": "10.61",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-03-29",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.03",
+  "price_max": "10.45",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-29",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.19",
+  "price_avg": "9.35",
+  "price_max": "9.66",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-29",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.12",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-29",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.79",
+  "price_max": "11.25",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-29",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.94",
+  "price_avg": "10.33",
+  "price_max": "10.61",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-03-30",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.04",
+  "price_max": "10.50",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-30",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.19",
+  "price_avg": "9.36",
+  "price_max": "9.66",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-30",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.13",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-30",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.81",
+  "price_max": "11.30",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-30",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.99",
+  "price_avg": "10.35",
+  "price_max": "10.61",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-03-31",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.08",
+  "price_max": "10.50",
+  "station_count": "1261"
+ },
+ {
+  "date": "2026-03-31",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.19",
+  "price_avg": "9.40",
+  "price_max": "9.75",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-03-31",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.13",
+  "price_max": "6.00",
+  "station_count": "372"
+ },
+ {
+  "date": "2026-03-31",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.91",
+  "price_max": "11.40",
+  "station_count": "1349"
+ },
+ {
+  "date": "2026-03-31",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.12",
+  "price_avg": "10.46",
+  "price_max": "10.78",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-04-01",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.91",
+  "price_max": "10.38",
+  "station_count": "1263"
+ },
+ {
+  "date": "2026-04-01",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.76",
+  "price_avg": "9.29",
+  "price_max": "9.71",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-01",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.13",
+  "price_max": "6.00",
+  "station_count": "373"
+ },
+ {
+  "date": "2026-04-01",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.70",
+  "price_max": "11.17",
+  "station_count": "1351"
+ },
+ {
+  "date": "2026-04-01",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.92",
+  "price_avg": "10.27",
+  "price_max": "10.72",
+  "station_count": "1429"
+ },
+ {
+  "date": "2026-04-02",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.04",
+  "price_max": "10.49",
+  "station_count": "1263"
+ },
+ {
+  "date": "2026-04-02",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.91",
+  "price_avg": "9.30",
+  "price_max": "9.53",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-02",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.15",
+  "price_max": "6.00",
+  "station_count": "373"
+ },
+ {
+  "date": "2026-04-02",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.51",
+  "price_max": "11.17",
+  "station_count": "1352"
+ },
+ {
+  "date": "2026-04-02",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.95",
+  "price_avg": "10.16",
+  "price_max": "10.61",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-03",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.75",
+  "price_max": "10.38",
+  "station_count": "1263"
+ },
+ {
+  "date": "2026-04-03",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "9.22",
+  "price_max": "9.53",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-03",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.16",
+  "price_max": "6.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-03",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.47",
+  "price_max": "11.17",
+  "station_count": "1352"
+ },
+ {
+  "date": "2026-04-03",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.99",
+  "price_avg": "10.23",
+  "price_max": "10.61",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-04",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.72",
+  "price_max": "10.38",
+  "station_count": "1263"
+ },
+ {
+  "date": "2026-04-04",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.16",
+  "price_avg": "9.18",
+  "price_max": "9.39",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-04",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.17",
+  "price_max": "6.00",
+  "station_count": "355"
+ },
+ {
+  "date": "2026-04-04",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.65",
+  "price_max": "11.17",
+  "station_count": "1352"
+ },
+ {
+  "date": "2026-04-04",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.46",
+  "price_avg": "10.38",
+  "price_max": "10.51",
+  "station_count": "1429"
+ },
+ {
+  "date": "2026-04-05",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.72",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-05",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.16",
+  "price_max": "9.39",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-05",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.16",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-05",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.63",
+  "price_max": "11.17",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-05",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "10.35",
+  "price_max": "10.51",
+  "station_count": "1429"
+ },
+ {
+  "date": "2026-04-06",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.71",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-06",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.16",
+  "price_max": "9.53",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-06",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.16",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-06",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.62",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-06",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "10.36",
+  "price_max": "10.51",
+  "station_count": "1429"
+ },
+ {
+  "date": "2026-04-07",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.78",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-07",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.18",
+  "price_max": "9.39",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-07",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.17",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-07",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.80",
+  "price_max": "11.09",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-07",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "10.02",
+  "price_max": "10.51",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-08",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.78",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-08",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.18",
+  "price_max": "9.33",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-08",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.22",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-08",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.80",
+  "price_max": "11.09",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-08",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "10.02",
+  "price_max": "10.47",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-09",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.73",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-09",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.14",
+  "price_max": "9.33",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-09",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.23",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-09",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.74",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-09",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.98",
+  "price_max": "10.47",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-10",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.50",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-10",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.94",
+  "price_max": "9.33",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-10",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.23",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-10",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.54",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-10",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.76",
+  "price_max": "10.47",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-11",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.50",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-11",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.93",
+  "price_max": "9.33",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-11",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.23",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-11",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.54",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-11",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.76",
+  "price_max": "10.47",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-12",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.50",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-12",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.93",
+  "price_max": "9.33",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-12",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.23",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-12",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.54",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-12",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.76",
+  "price_max": "10.47",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-13",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.50",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-13",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.93",
+  "price_max": "9.33",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-13",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.23",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-13",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.54",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-13",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.76",
+  "price_max": "10.47",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-14",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.50",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-14",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.93",
+  "price_max": "9.33",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-14",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.24",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-14",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.54",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-14",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.76",
+  "price_max": "10.47",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-15",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.51",
+  "price_max": "10.38",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-15",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.88",
+  "price_max": "9.33",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-15",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.25",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-15",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.40",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-15",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.63",
+  "price_max": "10.47",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-16",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.28",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-16",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.66",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-16",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.25",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-16",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "10.23",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-16",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.46",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-17",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "8.99",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-17",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.33",
+  "price_max": "9.20",
+  "station_count": "1428"
+ },
+ {
+  "date": "2026-04-17",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.26",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-17",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.03",
+  "price_avg": "9.96",
+  "price_max": "10.89",
+  "station_count": "1356"
+ },
+ {
+  "date": "2026-04-17",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.14",
+  "price_max": "10.39",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-04-18",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "8.88",
+  "price_max": "9.90",
+  "station_count": "1252"
+ },
+ {
+  "date": "2026-04-18",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.22",
+  "price_max": "9.20",
+  "station_count": "1416"
+ },
+ {
+  "date": "2026-04-18",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.26",
+  "price_max": "6.00",
+  "station_count": "356"
+ },
+ {
+  "date": "2026-04-18",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.73",
+  "price_max": "10.89",
+  "station_count": "1344"
+ },
+ {
+  "date": "2026-04-18",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.90",
+  "price_max": "10.39",
+  "station_count": "1418"
+ },
+ {
+  "date": "2026-04-19",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "8.88",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-19",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.21",
+  "price_max": "9.20",
+  "station_count": "1427"
+ },
+ {
+  "date": "2026-04-19",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.26",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-19",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.73",
+  "price_max": "10.89",
+  "station_count": "1355"
+ },
+ {
+  "date": "2026-04-19",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.88",
+  "price_max": "10.39",
+  "station_count": "1429"
+ },
+ {
+  "date": "2026-04-20",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "8.87",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-20",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.20",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-20",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.28",
+  "price_max": "6.00",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-04-20",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.69",
+  "price_max": "10.89",
+  "station_count": "1355"
+ },
+ {
+  "date": "2026-04-20",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.84",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-21",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "8.83",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-21",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.14",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-21",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.27",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-21",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.46",
+  "price_max": "10.89",
+  "station_count": "1355"
+ },
+ {
+  "date": "2026-04-21",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.60",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-22",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "8.85",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-22",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.16",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-22",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.28",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-22",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.42",
+  "price_max": "10.89",
+  "station_count": "1355"
+ },
+ {
+  "date": "2026-04-22",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.57",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-23",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "8.95",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-23",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.28",
+  "price_max": "9.20",
+  "station_count": "1431"
+ },
+ {
+  "date": "2026-04-23",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.28",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-23",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.54",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-04-23",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.67",
+  "price_max": "10.39",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-24",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.22",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-24",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.56",
+  "price_max": "9.20",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-04-24",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.29",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-24",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.80",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-04-24",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.95",
+  "price_max": "10.39",
+  "station_count": "1434"
+ },
+ {
+  "date": "2026-04-25",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.27",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-25",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.72",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-25",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.29",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-25",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.94",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-04-25",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.10",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-26",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-26",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.73",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-26",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.29",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-26",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.96",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-04-26",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.12",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-27",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-27",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.74",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-27",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.30",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-27",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.93",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-04-27",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.12",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-28",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.25",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-28",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.79",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-28",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.31",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-28",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.12",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-04-28",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.34",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-29",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.27",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-29",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.83",
+  "price_max": "9.20",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-29",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.32",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-29",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.22",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-04-29",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.47",
+  "price_max": "10.39",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-04-30",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-04-30",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.85",
+  "price_max": "9.42",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-04-30",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.33",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-04-30",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.36",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-04-30",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.59",
+  "price_max": "10.49",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-01",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.39",
+  "price_max": "9.90",
+  "station_count": "1252"
+ },
+ {
+  "date": "2026-05-01",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.96",
+  "price_max": "9.42",
+  "station_count": "1422"
+ },
+ {
+  "date": "2026-05-01",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.33",
+  "price_max": "5.00",
+  "station_count": "353"
+ },
+ {
+  "date": "2026-05-01",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.51",
+  "price_max": "10.89",
+  "station_count": "1343"
+ },
+ {
+  "date": "2026-05-01",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.72",
+  "price_max": "10.49",
+  "station_count": "1424"
+ },
+ {
+  "date": "2026-05-02",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.43",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-02",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.00",
+  "price_max": "9.42",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-05-02",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.33",
+  "price_max": "5.00",
+  "station_count": "359"
+ },
+ {
+  "date": "2026-05-02",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.57",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-02",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.79",
+  "price_max": "10.49",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-05-03",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.43",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-03",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.00",
+  "price_max": "9.42",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-05-03",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.33",
+  "price_max": "5.00",
+  "station_count": "359"
+ },
+ {
+  "date": "2026-05-03",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.57",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-03",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.79",
+  "price_max": "10.49",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-05-04",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.67",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-04",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.04",
+  "price_max": "9.42",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-05-04",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.33",
+  "price_max": "5.00",
+  "station_count": "359"
+ },
+ {
+  "date": "2026-05-04",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.59",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-04",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.81",
+  "price_max": "10.49",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-05-05",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.74",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-05",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.12",
+  "price_max": "9.42",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-05-05",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.33",
+  "price_max": "5.00",
+  "station_count": "359"
+ },
+ {
+  "date": "2026-05-05",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.63",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-05",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.85",
+  "price_max": "10.49",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-05-06",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.79",
+  "price_max": "9.94",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-06",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.18",
+  "price_max": "9.42",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-05-06",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.33",
+  "price_max": "5.00",
+  "station_count": "359"
+ },
+ {
+  "date": "2026-05-06",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.67",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-06",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.88",
+  "price_max": "10.49",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-05-07",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.78",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-07",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.18",
+  "price_max": "9.42",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-05-07",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.34",
+  "price_max": "5.00",
+  "station_count": "359"
+ },
+ {
+  "date": "2026-05-07",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.66",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-07",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.87",
+  "price_max": "10.49",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-05-08",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.77",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-08",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.17",
+  "price_max": "9.42",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-08",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.35",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-08",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.51",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-08",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.77",
+  "price_max": "10.49",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-09",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.76",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-09",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.16",
+  "price_max": "9.42",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-09",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.36",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-09",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.45",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-09",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.71",
+  "price_max": "10.49",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-10",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.76",
+  "price_max": "9.90",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-10",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.16",
+  "price_max": "9.42",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-10",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.36",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-10",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.45",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-10",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.71",
+  "price_max": "10.49",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-11",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.76",
+  "price_max": "9.95",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-11",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.16",
+  "price_max": "9.41",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-11",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.37",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-11",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.37",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-11",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.63",
+  "price_max": "10.48",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-12",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.76",
+  "price_max": "9.95",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-12",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.15",
+  "price_max": "9.40",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-12",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.37",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-12",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.28",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-12",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.48",
+  "price_max": "10.40",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-13",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.76",
+  "price_max": "9.95",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-13",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.15",
+  "price_max": "9.40",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-13",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.37",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-13",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.24",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-13",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.46",
+  "price_max": "10.40",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-14",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.76",
+  "price_max": "9.95",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-14",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.15",
+  "price_max": "9.40",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-14",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.37",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-14",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.30",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-14",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.51",
+  "price_max": "10.40",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-15",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.77",
+  "price_max": "9.99",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-15",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.15",
+  "price_max": "9.40",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-15",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.38",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-15",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.33",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-15",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.55",
+  "price_max": "10.40",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-16",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.77",
+  "price_max": "9.99",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-16",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.15",
+  "price_max": "9.40",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-16",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.38",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-16",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.37",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-16",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.57",
+  "price_max": "10.40",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-17",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.77",
+  "price_max": "9.99",
+  "station_count": "1229"
+ },
+ {
+  "date": "2026-05-17",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.15",
+  "price_max": "9.40",
+  "station_count": "1417"
+ },
+ {
+  "date": "2026-05-17",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.38",
+  "price_max": "5.00",
+  "station_count": "356"
+ },
+ {
+  "date": "2026-05-17",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.37",
+  "price_max": "10.89",
+  "station_count": "1337"
+ },
+ {
+  "date": "2026-05-17",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.57",
+  "price_max": "10.40",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-05-18",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.78",
+  "price_max": "9.99",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-18",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.16",
+  "price_max": "9.40",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-18",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.39",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-18",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.39",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-18",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.59",
+  "price_max": "10.15",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-19",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.82",
+  "price_max": "9.99",
+  "station_count": "1257"
+ },
+ {
+  "date": "2026-05-19",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.20",
+  "price_max": "9.30",
+  "station_count": "1424"
+ },
+ {
+  "date": "2026-05-19",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.39",
+  "price_max": "5.00",
+  "station_count": "361"
+ },
+ {
+  "date": "2026-05-19",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.44",
+  "price_max": "10.89",
+  "station_count": "1346"
+ },
+ {
+  "date": "2026-05-19",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.63",
+  "price_max": "10.15",
+  "station_count": "1426"
+ },
+ {
+  "date": "2026-05-20",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.85",
+  "price_max": "9.99",
+  "station_count": "1252"
+ },
+ {
+  "date": "2026-05-20",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.25",
+  "price_max": "9.30",
+  "station_count": "1422"
+ },
+ {
+  "date": "2026-05-20",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.39",
+  "price_max": "5.00",
+  "station_count": "353"
+ },
+ {
+  "date": "2026-05-20",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.47",
+  "price_max": "10.89",
+  "station_count": "1343"
+ },
+ {
+  "date": "2026-05-20",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.67",
+  "price_max": "10.15",
+  "station_count": "1424"
+ },
+ {
+  "date": "2026-05-21",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.90",
+  "price_max": "9.99",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-21",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.30",
+  "price_max": "9.38",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-21",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.39",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-21",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.41",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-21",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.62",
+  "price_max": "10.15",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-05-22",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.94",
+  "price_max": "10.50",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-05-22",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.34",
+  "price_max": "9.38",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-05-22",
+  "fuel_type": "gpl",
+  "price_min": "2.57",
+  "price_avg": "4.39",
+  "price_max": "5.00",
+  "station_count": "362"
+ },
+ {
+  "date": "2026-05-22",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.40",
+  "price_max": "10.89",
+  "station_count": "1354"
+ },
+ {
+  "date": "2026-05-22",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.59",
+  "price_max": "10.15",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-01",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.19",
+  "price_max": "10.25",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-01",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.64",
+  "price_max": "9.68",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-01",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.43",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-01",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.36",
+  "price_max": "10.89",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-01",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.56",
+  "price_max": "9.89",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-02",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.19",
+  "price_max": "10.25",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-02",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.64",
+  "price_max": "9.68",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-02",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.43",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-02",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.36",
+  "price_max": "10.89",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-02",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.56",
+  "price_max": "9.89",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-03",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.19",
+  "price_max": "10.30",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-03",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.64",
+  "price_max": "9.68",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-03",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.43",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-03",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.35",
+  "price_max": "10.89",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-03",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.56",
+  "price_max": "9.89",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-04",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.19",
+  "price_max": "10.35",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-04",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.64",
+  "price_max": "9.78",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-04",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.43",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-04",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.35",
+  "price_max": "10.89",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-04",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.56",
+  "price_max": "9.89",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-05",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.19",
+  "price_max": "10.35",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-05",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.64",
+  "price_max": "9.78",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-05",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.44",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-05",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.37",
+  "price_max": "10.89",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-05",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.56",
+  "price_max": "9.89",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-06",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.17",
+  "price_max": "10.35",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-06",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.62",
+  "price_max": "9.78",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-06",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.45",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-06",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.35",
+  "price_max": "10.89",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-06",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.55",
+  "price_max": "9.89",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-07",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.17",
+  "price_max": "10.35",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-07",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.62",
+  "price_max": "9.78",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-07",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.45",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-07",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "10.35",
+  "price_max": "10.89",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-07",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.55",
+  "price_max": "9.89",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-08",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.13",
+  "price_max": "10.25",
+  "station_count": "1009"
+ },
+ {
+  "date": "2026-06-08",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.91",
+  "price_avg": "9.61",
+  "price_max": "9.68",
+  "station_count": "1174"
+ },
+ {
+  "date": "2026-06-08",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.44",
+  "price_max": "5.00",
+  "station_count": "242"
+ },
+ {
+  "date": "2026-06-08",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.36",
+  "price_max": "10.89",
+  "station_count": "1090"
+ },
+ {
+  "date": "2026-06-08",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.34",
+  "price_avg": "9.54",
+  "price_max": "9.89",
+  "station_count": "1175"
+ },
+ {
+  "date": "2026-06-09",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.88",
+  "price_max": "10.25",
+  "station_count": "1009"
+ },
+ {
+  "date": "2026-06-09",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.90",
+  "price_avg": "9.36",
+  "price_max": "9.68",
+  "station_count": "1174"
+ },
+ {
+  "date": "2026-06-09",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.44",
+  "price_max": "5.00",
+  "station_count": "242"
+ },
+ {
+  "date": "2026-06-09",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.18",
+  "price_max": "10.89",
+  "station_count": "1090"
+ },
+ {
+  "date": "2026-06-09",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.61",
+  "price_avg": "9.34",
+  "price_max": "9.89",
+  "station_count": "1175"
+ },
+ {
+  "date": "2026-06-10",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.87",
+  "price_max": "10.25",
+  "station_count": "1009"
+ },
+ {
+  "date": "2026-06-10",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.63",
+  "price_avg": "9.34",
+  "price_max": "9.68",
+  "station_count": "1174"
+ },
+ {
+  "date": "2026-06-10",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.44",
+  "price_max": "5.00",
+  "station_count": "242"
+ },
+ {
+  "date": "2026-06-10",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.16",
+  "price_max": "10.89",
+  "station_count": "1090"
+ },
+ {
+  "date": "2026-06-10",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.63",
+  "price_avg": "9.33",
+  "price_max": "9.89",
+  "station_count": "1175"
+ },
+ {
+  "date": "2026-06-11",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.54",
+  "price_max": "10.25",
+  "station_count": "1252"
+ },
+ {
+  "date": "2026-06-11",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.02",
+  "price_max": "9.68",
+  "station_count": "1422"
+ },
+ {
+  "date": "2026-06-11",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.46",
+  "price_max": "5.00",
+  "station_count": "342"
+ },
+ {
+  "date": "2026-06-11",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.99",
+  "price_max": "10.89",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-06-11",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.14",
+  "price_max": "9.89",
+  "station_count": "1424"
+ },
+ {
+  "date": "2026-06-12",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.54",
+  "price_max": "10.25",
+  "station_count": "1252"
+ },
+ {
+  "date": "2026-06-12",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.85",
+  "price_max": "9.68",
+  "station_count": "1417"
+ },
+ {
+  "date": "2026-06-12",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.46",
+  "price_max": "5.00",
+  "station_count": "342"
+ },
+ {
+  "date": "2026-06-12",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.97",
+  "price_max": "10.89",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-06-12",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.12",
+  "price_max": "9.89",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-13",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.50",
+  "price_max": "10.25",
+  "station_count": "1252"
+ },
+ {
+  "date": "2026-06-13",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.80",
+  "price_max": "9.68",
+  "station_count": "1417"
+ },
+ {
+  "date": "2026-06-13",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.47",
+  "price_max": "5.00",
+  "station_count": "342"
+ },
+ {
+  "date": "2026-06-13",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.97",
+  "price_max": "10.89",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-06-13",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.13",
+  "price_max": "9.89",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-14",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.50",
+  "price_max": "10.25",
+  "station_count": "1252"
+ },
+ {
+  "date": "2026-06-14",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.78",
+  "price_max": "9.68",
+  "station_count": "1417"
+ },
+ {
+  "date": "2026-06-14",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.47",
+  "price_max": "5.00",
+  "station_count": "342"
+ },
+ {
+  "date": "2026-06-14",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.97",
+  "price_max": "10.89",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-06-14",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.12",
+  "price_max": "9.89",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-15",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.46",
+  "price_max": "10.25",
+  "station_count": "1252"
+ },
+ {
+  "date": "2026-06-15",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.75",
+  "price_max": "9.68",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-15",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.47",
+  "price_max": "5.00",
+  "station_count": "342"
+ },
+ {
+  "date": "2026-06-15",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.96",
+  "price_max": "10.89",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-06-15",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.12",
+  "price_max": "9.89",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-16",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.35",
+  "price_max": "10.10",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-16",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.59",
+  "price_max": "9.62",
+  "station_count": "1432"
+ },
+ {
+  "date": "2026-06-16",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.48",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-16",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.90",
+  "price_max": "10.30",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-16",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.05",
+  "price_max": "9.38",
+  "station_count": "1434"
+ },
+ {
+  "date": "2026-06-17",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-17",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.52",
+  "price_max": "9.62",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-17",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.49",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-17",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.88",
+  "price_max": "10.30",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-17",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.02",
+  "price_max": "9.38",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-18",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.26",
+  "price_max": "10.10",
+  "station_count": "1264"
+ },
+ {
+  "date": "2026-06-18",
+  "fuel_type": "benzina_standard",
+  "price_min": "6.74",
+  "price_avg": "8.49",
+  "price_max": "9.25",
+  "station_count": "1433"
+ },
+ {
+  "date": "2026-06-18",
+  "fuel_type": "gpl",
+  "price_min": "3.24",
+  "price_avg": "4.49",
+  "price_max": "5.00",
+  "station_count": "351"
+ },
+ {
+  "date": "2026-06-18",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.22",
+  "price_avg": "9.88",
+  "price_max": "10.30",
+  "station_count": "1353"
+ },
+ {
+  "date": "2026-06-18",
+  "fuel_type": "motorina_standard",
+  "price_min": "6.74",
+  "price_avg": "9.02",
+  "price_max": "9.26",
+  "station_count": "1435"
+ },
+ {
+  "date": "2026-06-19",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.28",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-19",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.39",
+  "price_avg": "8.51",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-19",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.51",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-19",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "9.91",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-19",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.32",
+  "price_avg": "9.04",
+  "price_max": "9.26",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-20",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-20",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.27",
+  "price_avg": "8.52",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-20",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.52",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-20",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "9.95",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-20",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.32",
+  "price_avg": "9.07",
+  "price_max": "9.26",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-21",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-21",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.27",
+  "price_avg": "8.52",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-21",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.52",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-21",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "9.95",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-21",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.32",
+  "price_avg": "9.07",
+  "price_max": "9.26",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-22",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.31",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-22",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.27",
+  "price_avg": "8.54",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-22",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.52",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-22",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "9.97",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-22",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.32",
+  "price_avg": "9.09",
+  "price_max": "9.26",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-23",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.33",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-23",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.27",
+  "price_avg": "8.57",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-23",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.53",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-23",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "9.98",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-23",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.32",
+  "price_avg": "9.12",
+  "price_max": "9.26",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-24",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.37",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-24",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.27",
+  "price_avg": "8.62",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-24",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.54",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-24",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.02",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-24",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.32",
+  "price_avg": "9.16",
+  "price_max": "9.26",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-25",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.41",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-25",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.27",
+  "price_avg": "8.67",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-25",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.54",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-25",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.06",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-25",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.54",
+  "price_avg": "9.22",
+  "price_max": "9.30",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-26",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.40",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-26",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.27",
+  "price_avg": "8.66",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-26",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-26",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.05",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-26",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.54",
+  "price_avg": "9.22",
+  "price_max": "9.34",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-27",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.40",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-27",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.42",
+  "price_avg": "8.66",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-27",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-27",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.05",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-27",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.54",
+  "price_avg": "9.22",
+  "price_max": "9.34",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-28",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.40",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-28",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.42",
+  "price_avg": "8.66",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-28",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-28",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.05",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-28",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.04",
+  "price_avg": "9.22",
+  "price_max": "9.34",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-29",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.40",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-29",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.39",
+  "price_avg": "8.66",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-29",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-29",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.05",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-29",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.84",
+  "price_avg": "9.22",
+  "price_max": "9.34",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-06-30",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.40",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-06-30",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.39",
+  "price_avg": "8.66",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-06-30",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-06-30",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.05",
+  "price_max": "10.30",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-06-30",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.84",
+  "price_avg": "9.22",
+  "price_max": "9.30",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-01",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-01",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.39",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-01",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-01",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.35",
+  "price_max": "10.45",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-01",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.98",
+  "price_avg": "9.57",
+  "price_max": "9.66",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-02",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-02",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.49",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-02",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-02",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.35",
+  "price_max": "10.45",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-02",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.99",
+  "price_avg": "9.57",
+  "price_max": "9.66",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-03",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-03",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.49",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-03",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-03",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.28",
+  "price_max": "10.40",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-03",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.99",
+  "price_avg": "9.50",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-04",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-04",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.49",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-04",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-04",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.26",
+  "price_max": "10.39",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-04",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.99",
+  "price_avg": "9.48",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-05",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-05",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.49",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-05",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-05",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.26",
+  "price_max": "10.39",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-05",
+  "fuel_type": "motorina_standard",
+  "price_min": "8.99",
+  "price_avg": "9.48",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-06",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-06",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.49",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-06",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-06",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.26",
+  "price_max": "10.39",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-06",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.25",
+  "price_avg": "9.48",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-07",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.30",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-07",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-07",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.55",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-07",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.26",
+  "price_max": "10.56",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-07",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.25",
+  "price_avg": "9.47",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-08",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-08",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-08",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-08",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.23",
+  "price_max": "10.51",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-08",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.25",
+  "price_avg": "9.45",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-09",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-09",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-09",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-09",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.21",
+  "price_max": "10.51",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-09",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.25",
+  "price_avg": "9.44",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-10",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-10",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-10",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-10",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.21",
+  "price_max": "10.51",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-10",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.25",
+  "price_avg": "9.43",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-11",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-11",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-11",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-11",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.20",
+  "price_max": "10.51",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-11",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.25",
+  "price_avg": "9.43",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-12",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-12",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-12",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-12",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.20",
+  "price_max": "10.51",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-12",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.25",
+  "price_avg": "9.43",
+  "price_max": "9.60",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-13",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-13",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-13",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-13",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.20",
+  "price_max": "10.51",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-13",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.43",
+  "price_max": "9.64",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-14",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-14",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-14",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-14",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.20",
+  "price_max": "10.51",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-14",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.43",
+  "price_max": "9.64",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-15",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.29",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-15",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-15",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-15",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.20",
+  "price_max": "10.51",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-15",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.43",
+  "price_max": "9.64",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-16",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.26",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-16",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.65",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-16",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-16",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.22",
+  "price_max": "10.39",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-16",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.45",
+  "price_max": "9.64",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-17",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.26",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-17",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.67",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-17",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-17",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.24",
+  "price_max": "10.42",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-17",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.49",
+  "price_max": "9.64",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-18",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.34",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-18",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.48",
+  "price_avg": "8.74",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-18",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-18",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.29",
+  "price_max": "10.46",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-18",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.54",
+  "price_max": "9.65",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-19",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.34",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-19",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.76",
+  "price_max": "9.25",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-19",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-19",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.33",
+  "price_max": "10.52",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-19",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.56",
+  "price_max": "9.71",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-20",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.34",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-20",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.76",
+  "price_max": "8.99",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-20",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-20",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.36",
+  "price_max": "10.52",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-20",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.38",
+  "price_avg": "9.59",
+  "price_max": "9.71",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-21",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.34",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-21",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.59",
+  "price_avg": "8.76",
+  "price_max": "8.99",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-21",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-21",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.36",
+  "price_max": "10.52",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-21",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.38",
+  "price_avg": "9.60",
+  "price_max": "9.79",
+  "station_count": "1417"
+ },
+ {
+  "date": "2026-07-22",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.50",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-22",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "8.92",
+  "price_max": "8.99",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-22",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-22",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.50",
+  "price_max": "10.67",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-22",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.49",
+  "price_avg": "9.73",
+  "price_max": "9.86",
+  "station_count": "1417"
+ },
+ {
+  "date": "2026-07-23",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.51",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-23",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "8.93",
+  "price_max": "8.99",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-23",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-23",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.52",
+  "price_max": "10.71",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-23",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.49",
+  "price_avg": "9.75",
+  "price_max": "9.90",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-24",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.61",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-24",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "9.05",
+  "price_max": "9.12",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-24",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-24",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.66",
+  "price_max": "10.78",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-24",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.49",
+  "price_avg": "9.89",
+  "price_max": "9.99",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-25",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.62",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-25",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "9.05",
+  "price_max": "9.12",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-25",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-25",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.70",
+  "price_max": "10.78",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-25",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.68",
+  "price_avg": "9.93",
+  "price_max": "9.99",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-26",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.65",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-26",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "9.09",
+  "price_max": "9.12",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-26",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-26",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.73",
+  "price_max": "10.79",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-26",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.68",
+  "price_avg": "9.96",
+  "price_max": "9.99",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-27",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.71",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-27",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "9.14",
+  "price_max": "9.24",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-27",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-27",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.77",
+  "price_max": "10.98",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-27",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.68",
+  "price_avg": "10.01",
+  "price_max": "10.19",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-28",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.75",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-28",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "9.19",
+  "price_max": "9.24",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-28",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.56",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-28",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.86",
+  "price_max": "10.98",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-28",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.79",
+  "price_avg": "10.10",
+  "price_max": "10.35",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-29",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.81",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-29",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "9.25",
+  "price_max": "9.39",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-07-29",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.57",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-29",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "10.98",
+  "price_max": "11.09",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-29",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.79",
+  "price_avg": "10.23",
+  "price_max": "10.39",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-30",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.95",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-30",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "9.40",
+  "price_max": "9.44",
+  "station_count": "1418"
+ },
+ {
+  "date": "2026-07-30",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.57",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-30",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.23",
+  "price_max": "11.33",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-30",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.79",
+  "price_avg": "10.47",
+  "price_max": "10.90",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-07-31",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.96",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-07-31",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.65",
+  "price_avg": "9.40",
+  "price_max": "9.59",
+  "station_count": "1418"
+ },
+ {
+  "date": "2026-07-31",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.58",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-07-31",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.27",
+  "price_max": "11.48",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-07-31",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.79",
+  "price_avg": "10.51",
+  "price_max": "10.90",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-08-01",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.99",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-08-01",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.68",
+  "price_avg": "9.44",
+  "price_max": "9.59",
+  "station_count": "1418"
+ },
+ {
+  "date": "2026-08-01",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.58",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-08-01",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.42",
+  "price_max": "11.63",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-08-01",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.60",
+  "price_avg": "10.65",
+  "price_max": "10.90",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-08-02",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.99",
+  "price_max": "10.10",
+  "station_count": "1254"
+ },
+ {
+  "date": "2026-08-02",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.68",
+  "price_avg": "9.44",
+  "price_max": "9.59",
+  "station_count": "1418"
+ },
+ {
+  "date": "2026-08-02",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.58",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-08-02",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.42",
+  "price_max": "11.63",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-08-02",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.60",
+  "price_avg": "10.65",
+  "price_max": "10.90",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-08-03",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.54",
+  "price_avg": "9.99",
+  "price_max": "10.04",
+  "station_count": "1177"
+ },
+ {
+  "date": "2026-08-03",
+  "fuel_type": "benzina_standard",
+  "price_min": "8.68",
+  "price_avg": "9.44",
+  "price_max": "9.47",
+  "station_count": "1306"
+ },
+ {
+  "date": "2026-08-03",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.59",
+  "price_max": "4.98",
+  "station_count": "306"
+ },
+ {
+  "date": "2026-08-03",
+  "fuel_type": "motorina_premium",
+  "price_min": "9.55",
+  "price_avg": "11.42",
+  "price_max": "11.63",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-03",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.60",
+  "price_avg": "10.66",
+  "price_max": "10.83",
+  "station_count": "1307"
+ },
+ {
+  "date": "2026-08-04",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.54",
+  "price_avg": "10.11",
+  "price_max": "10.17",
+  "station_count": "1177"
+ },
+ {
+  "date": "2026-08-04",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.47",
+  "price_avg": "9.55",
+  "price_max": "9.59",
+  "station_count": "1306"
+ },
+ {
+  "date": "2026-08-04",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.61",
+  "price_max": "4.98",
+  "station_count": "306"
+ },
+ {
+  "date": "2026-08-04",
+  "fuel_type": "motorina_premium",
+  "price_min": "9.55",
+  "price_avg": "11.61",
+  "price_max": "11.78",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-04",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.63",
+  "price_avg": "10.85",
+  "price_max": "10.98",
+  "station_count": "1307"
+ },
+ {
+  "date": "2026-08-05",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.54",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1178"
+ },
+ {
+  "date": "2026-08-05",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.41",
+  "price_avg": "9.54",
+  "price_max": "9.59",
+  "station_count": "1307"
+ },
+ {
+  "date": "2026-08-05",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.61",
+  "price_max": "4.98",
+  "station_count": "306"
+ },
+ {
+  "date": "2026-08-05",
+  "fuel_type": "motorina_premium",
+  "price_min": "9.55",
+  "price_avg": "11.55",
+  "price_max": "11.78",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-05",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.73",
+  "price_avg": "10.84",
+  "price_max": "10.98",
+  "station_count": "1308"
+ },
+ {
+  "date": "2026-08-06",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.54",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1178"
+ },
+ {
+  "date": "2026-08-06",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.41",
+  "price_avg": "9.54",
+  "price_max": "9.59",
+  "station_count": "1307"
+ },
+ {
+  "date": "2026-08-06",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.61",
+  "price_max": "4.98",
+  "station_count": "306"
+ },
+ {
+  "date": "2026-08-06",
+  "fuel_type": "motorina_premium",
+  "price_min": "9.55",
+  "price_avg": "11.55",
+  "price_max": "11.78",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-06",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.73",
+  "price_avg": "10.84",
+  "price_max": "10.98",
+  "station_count": "1308"
+ },
+ {
+  "date": "2026-08-07",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.94",
+  "price_max": "10.17",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-07",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.39",
+  "price_max": "9.85",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-08-07",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.61",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-08-07",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.32",
+  "price_max": "11.78",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-08-07",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.53",
+  "price_avg": "10.61",
+  "price_max": "11.20",
+  "station_count": "1420"
+ },
+ {
+  "date": "2026-08-08",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.94",
+  "price_max": "10.17",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-08",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.39",
+  "price_max": "9.85",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-08-08",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.61",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-08-08",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.25",
+  "price_max": "11.78",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-08-08",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.43",
+  "price_avg": "10.54",
+  "price_max": "11.20",
+  "station_count": "1420"
+ },
+ {
+  "date": "2026-08-09",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.94",
+  "price_max": "10.17",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-09",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.39",
+  "price_max": "9.85",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-08-09",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.61",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-08-09",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.25",
+  "price_max": "11.78",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-08-09",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.43",
+  "price_avg": "10.54",
+  "price_max": "11.20",
+  "station_count": "1420"
+ },
+ {
+  "date": "2026-08-10",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "9.94",
+  "price_max": "10.17",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-10",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.39",
+  "price_max": "9.85",
+  "station_count": "1419"
+ },
+ {
+  "date": "2026-08-10",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.61",
+  "price_max": "5.00",
+  "station_count": "348"
+ },
+ {
+  "date": "2026-08-10",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.24",
+  "price_max": "11.64",
+  "station_count": "1342"
+ },
+ {
+  "date": "2026-08-10",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.43",
+  "price_avg": "10.54",
+  "price_max": "11.20",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-08-11",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.32",
+  "price_avg": "10.00",
+  "price_max": "10.17",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-11",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.26",
+  "price_avg": "9.45",
+  "price_max": "9.85",
+  "station_count": "1424"
+ },
+ {
+  "date": "2026-08-11",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.61",
+  "price_max": "5.00",
+  "station_count": "349"
+ },
+ {
+  "date": "2026-08-11",
+  "fuel_type": "motorina_premium",
+  "price_min": "7.66",
+  "price_avg": "11.32",
+  "price_max": "11.64",
+  "station_count": "1343"
+ },
+ {
+  "date": "2026-08-11",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.43",
+  "price_avg": "10.62",
+  "price_max": "11.20",
+  "station_count": "1426"
+ },
+ {
+  "date": "2026-08-12",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.54",
+  "price_avg": "10.07",
+  "price_max": "10.17",
+  "station_count": "1170"
+ },
+ {
+  "date": "2026-08-12",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.32",
+  "price_avg": "9.52",
+  "price_max": "9.57",
+  "station_count": "1296"
+ },
+ {
+  "date": "2026-08-12",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.61",
+  "price_max": "4.98",
+  "station_count": "307"
+ },
+ {
+  "date": "2026-08-12",
+  "fuel_type": "motorina_premium",
+  "price_min": "9.55",
+  "price_avg": "11.39",
+  "price_max": "11.59",
+  "station_count": "1248"
+ },
+ {
+  "date": "2026-08-12",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.53",
+  "price_avg": "10.72",
+  "price_max": "10.78",
+  "station_count": "1297"
+ },
+ {
+  "date": "2026-08-13",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.54",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1170"
+ },
+ {
+  "date": "2026-08-13",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.57",
+  "station_count": "1296"
+ },
+ {
+  "date": "2026-08-13",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.61",
+  "price_max": "4.98",
+  "station_count": "307"
+ },
+ {
+  "date": "2026-08-13",
+  "fuel_type": "motorina_premium",
+  "price_min": "9.55",
+  "price_avg": "11.39",
+  "price_max": "11.59",
+  "station_count": "1248"
+ },
+ {
+  "date": "2026-08-13",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.63",
+  "price_avg": "10.72",
+  "price_max": "10.79",
+  "station_count": "1297"
+ },
+ {
+  "date": "2026-08-14",
+  "fuel_type": "benzina_premium",
+  "price_min": "7.54",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1178"
+ },
+ {
+  "date": "2026-08-14",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.57",
+  "station_count": "1309"
+ },
+ {
+  "date": "2026-08-14",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.61",
+  "price_max": "4.98",
+  "station_count": "307"
+ },
+ {
+  "date": "2026-08-14",
+  "fuel_type": "motorina_premium",
+  "price_min": "9.55",
+  "price_avg": "11.42",
+  "price_max": "11.64",
+  "station_count": "1258"
+ },
+ {
+  "date": "2026-08-14",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.63",
+  "price_avg": "10.75",
+  "price_max": "10.88",
+  "station_count": "1310"
+ },
+ {
+  "date": "2026-08-15",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1176"
+ },
+ {
+  "date": "2026-08-15",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.57",
+  "station_count": "1309"
+ },
+ {
+  "date": "2026-08-15",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.61",
+  "price_max": "4.98",
+  "station_count": "307"
+ },
+ {
+  "date": "2026-08-15",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.78",
+  "price_avg": "11.42",
+  "price_max": "11.64",
+  "station_count": "1257"
+ },
+ {
+  "date": "2026-08-15",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.63",
+  "price_avg": "10.75",
+  "price_max": "10.88",
+  "station_count": "1310"
+ },
+ {
+  "date": "2026-08-16",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1251"
+ },
+ {
+  "date": "2026-08-16",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.89",
+  "station_count": "1421"
+ },
+ {
+  "date": "2026-08-16",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.61",
+  "price_max": "5.00",
+  "station_count": "346"
+ },
+ {
+  "date": "2026-08-16",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.35",
+  "price_avg": "10.99",
+  "price_max": "11.64",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-08-16",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.93",
+  "price_avg": "10.11",
+  "price_max": "10.99",
+  "station_count": "1423"
+ },
+ {
+  "date": "2026-08-17",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1251"
+ },
+ {
+  "date": "2026-08-17",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.65",
+  "station_count": "1332"
+ },
+ {
+  "date": "2026-08-17",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.61",
+  "price_max": "5.00",
+  "station_count": "337"
+ },
+ {
+  "date": "2026-08-17",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.35",
+  "price_avg": "10.91",
+  "price_max": "11.64",
+  "station_count": "1339"
+ },
+ {
+  "date": "2026-08-17",
+  "fuel_type": "motorina_standard",
+  "price_min": "9.93",
+  "price_avg": "10.16",
+  "price_max": "10.77",
+  "station_count": "1382"
+ },
+ {
+  "date": "2026-08-18",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1194"
+ },
+ {
+  "date": "2026-08-18",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.69",
+  "station_count": "1425"
+ },
+ {
+  "date": "2026-08-18",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.62",
+  "price_max": "5.00",
+  "station_count": "350"
+ },
+ {
+  "date": "2026-08-18",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.96",
+  "price_max": "11.44",
+  "station_count": "1322"
+ },
+ {
+  "date": "2026-08-18",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.02",
+  "price_avg": "10.23",
+  "price_max": "10.99",
+  "station_count": "1427"
+ },
+ {
+  "date": "2026-08-19",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1215"
+ },
+ {
+  "date": "2026-08-19",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.69",
+  "station_count": "1360"
+ },
+ {
+  "date": "2026-08-19",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "341"
+ },
+ {
+  "date": "2026-08-19",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.96",
+  "price_max": "11.64",
+  "station_count": "1338"
+ },
+ {
+  "date": "2026-08-19",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.02",
+  "price_avg": "10.23",
+  "price_max": "10.75",
+  "station_count": "1336"
+ },
+ {
+  "date": "2026-08-20",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1181"
+ },
+ {
+  "date": "2026-08-20",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.65",
+  "station_count": "1328"
+ },
+ {
+  "date": "2026-08-20",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.64",
+  "price_max": "4.99",
+  "station_count": "306"
+ },
+ {
+  "date": "2026-08-20",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.96",
+  "price_max": "11.43",
+  "station_count": "1298"
+ },
+ {
+  "date": "2026-08-20",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.02",
+  "price_avg": "10.23",
+  "price_max": "10.77",
+  "station_count": "1369"
+ },
+ {
+  "date": "2026-08-21",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1175"
+ },
+ {
+  "date": "2026-08-21",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.67",
+  "station_count": "1397"
+ },
+ {
+  "date": "2026-08-21",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.64",
+  "price_max": "4.99",
+  "station_count": "306"
+ },
+ {
+  "date": "2026-08-21",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.96",
+  "price_max": "11.04",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-21",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.02",
+  "price_avg": "10.23",
+  "price_max": "10.40",
+  "station_count": "1309"
+ },
+ {
+  "date": "2026-08-22",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1186"
+ },
+ {
+  "date": "2026-08-22",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.57",
+  "station_count": "1308"
+ },
+ {
+  "date": "2026-08-22",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "349"
+ },
+ {
+  "date": "2026-08-22",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.96",
+  "price_max": "11.43",
+  "station_count": "1296"
+ },
+ {
+  "date": "2026-08-22",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.02",
+  "price_avg": "10.23",
+  "price_max": "10.40",
+  "station_count": "1361"
+ },
+ {
+  "date": "2026-08-23",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1175"
+ },
+ {
+  "date": "2026-08-23",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.42",
+  "price_avg": "9.55",
+  "price_max": "9.57",
+  "station_count": "1308"
+ },
+ {
+  "date": "2026-08-23",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "337"
+ },
+ {
+  "date": "2026-08-23",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.96",
+  "price_max": "11.04",
+  "station_count": "1272"
+ },
+ {
+  "date": "2026-08-23",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.02",
+  "price_avg": "10.23",
+  "price_max": "10.40",
+  "station_count": "1309"
+ },
+ {
+  "date": "2026-08-24",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.11",
+  "price_max": "10.17",
+  "station_count": "1175"
+ },
+ {
+  "date": "2026-08-24",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.48",
+  "price_avg": "9.55",
+  "price_max": "9.57",
+  "station_count": "1308"
+ },
+ {
+  "date": "2026-08-24",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.64",
+  "price_max": "4.99",
+  "station_count": "365"
+ },
+ {
+  "date": "2026-08-24",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.96",
+  "price_max": "11.09",
+  "station_count": "1256"
+ },
+ {
+  "date": "2026-08-24",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.02",
+  "price_avg": "10.23",
+  "price_max": "10.40",
+  "station_count": "1372"
+ },
+ {
+  "date": "2026-08-25",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.09",
+  "price_max": "10.17",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-25",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.48",
+  "price_avg": "9.55",
+  "price_max": "9.57",
+  "station_count": "1308"
+ },
+ {
+  "date": "2026-08-25",
+  "fuel_type": "gpl",
+  "price_min": "4.28",
+  "price_avg": "4.64",
+  "price_max": "4.99",
+  "station_count": "334"
+ },
+ {
+  "date": "2026-08-25",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.97",
+  "price_max": "11.43",
+  "station_count": "1294"
+ },
+ {
+  "date": "2026-08-25",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.10",
+  "price_avg": "10.23",
+  "price_max": "10.40",
+  "station_count": "1430"
+ },
+ {
+  "date": "2026-08-26",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-26",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.48",
+  "price_avg": "9.55",
+  "price_max": "9.67",
+  "station_count": "1556"
+ },
+ {
+  "date": "2026-08-26",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "383"
+ },
+ {
+  "date": "2026-08-26",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.99",
+  "price_max": "11.64",
+  "station_count": "1404"
+ },
+ {
+  "date": "2026-08-26",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.09",
+  "price_avg": "10.23",
+  "price_max": "10.77",
+  "station_count": "1497"
+ },
+ {
+  "date": "2026-08-27",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-27",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.48",
+  "price_avg": "9.55",
+  "price_max": "9.67",
+  "station_count": "1556"
+ },
+ {
+  "date": "2026-08-27",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "383"
+ },
+ {
+  "date": "2026-08-27",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.99",
+  "price_max": "11.64",
+  "station_count": "1404"
+ },
+ {
+  "date": "2026-08-27",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.09",
+  "price_avg": "10.23",
+  "price_max": "10.77",
+  "station_count": "1497"
+ },
+ {
+  "date": "2026-08-28",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-28",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.48",
+  "price_avg": "9.55",
+  "price_max": "9.67",
+  "station_count": "1556"
+ },
+ {
+  "date": "2026-08-28",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "383"
+ },
+ {
+  "date": "2026-08-28",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.99",
+  "price_max": "11.64",
+  "station_count": "1404"
+ },
+ {
+  "date": "2026-08-28",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.09",
+  "price_avg": "10.23",
+  "price_max": "10.77",
+  "station_count": "1497"
+ },
+ {
+  "date": "2026-08-29",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-29",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.29",
+  "price_avg": "9.55",
+  "price_max": "9.67",
+  "station_count": "1556"
+ },
+ {
+  "date": "2026-08-29",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "383"
+ },
+ {
+  "date": "2026-08-29",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.99",
+  "price_max": "11.64",
+  "station_count": "1404"
+ },
+ {
+  "date": "2026-08-29",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.09",
+  "price_avg": "10.23",
+  "price_max": "10.77",
+  "station_count": "1497"
+ },
+ {
+  "date": "2026-08-30",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-30",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.29",
+  "price_avg": "9.55",
+  "price_max": "9.67",
+  "station_count": "1556"
+ },
+ {
+  "date": "2026-08-30",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "383"
+ },
+ {
+  "date": "2026-08-30",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.99",
+  "price_max": "11.64",
+  "station_count": "1404"
+ },
+ {
+  "date": "2026-08-30",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.09",
+  "price_avg": "10.23",
+  "price_max": "10.77",
+  "station_count": "1497"
+ },
+ {
+  "date": "2026-08-31",
+  "fuel_type": "benzina_premium",
+  "price_min": "9.84",
+  "price_avg": "10.08",
+  "price_max": "10.17",
+  "station_count": "1255"
+ },
+ {
+  "date": "2026-08-31",
+  "fuel_type": "benzina_standard",
+  "price_min": "9.29",
+  "price_avg": "9.55",
+  "price_max": "9.67",
+  "station_count": "1556"
+ },
+ {
+  "date": "2026-08-31",
+  "fuel_type": "gpl",
+  "price_min": "3.61",
+  "price_avg": "4.63",
+  "price_max": "4.99",
+  "station_count": "383"
+ },
+ {
+  "date": "2026-08-31",
+  "fuel_type": "motorina_premium",
+  "price_min": "10.50",
+  "price_avg": "10.99",
+  "price_max": "11.64",
+  "station_count": "1404"
+ },
+ {
+  "date": "2026-08-31",
+  "fuel_type": "motorina_standard",
+  "price_min": "10.09",
+  "price_avg": "10.23",
+  "price_max": "10.77",
+  "station_count": "1497"
+ }
+]
