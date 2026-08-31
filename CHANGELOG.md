@@ -7,6 +7,24 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 ## [Unreleased]
 
 ### Fixed
+- **Erratum — 264 files containing synthetic values have been removed from the
+  repository.** Every daily file before `daily/2026-03-18.csv` and every monthly
+  file before `monthly/2026-03-cumulative.csv` (132 of each) was produced by a
+  seeding routine that generated plausible-looking numbers from annual averages, not by
+  measurement. They were written at the first public release and never removed, because
+  the daily export only ever writes files — it does not delete stale ones.
+
+  The signature is visible in the data itself: every synthetic row reports
+  `station_count = 500`, a constant that never occurs in measured data.
+
+  The daily export was already restricted to measured data on an earlier date, so
+  `monthly/cumulative-latest.csv` and every file from 2026-03-18 onward were
+  never affected and are unchanged. Nothing that was measured has been removed.
+
+  **The measured series begins on 2026-03-18.** Any analysis that used files dated before
+  that should be re-run without them. The README previously described the dataset as
+  covering "2015 to today"; that claim has been corrected.
+
 - **Erratum — daily aggregates for 2026-08-12, 2026-08-13 and 2026-08-14 have been
   recomputed and corrected.** One of the upstream sources feeding the pipeline stopped
   responding on 2026-08-11 (HTTP 403). Because the shared data file is written by several
@@ -38,6 +56,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 ### Added
 - First public release of the dataset on GitHub.
 - Backfilled historical aggregates from 2015-01-15 through 2026-05-05.
+  **Withdrawn on 2026-08-31 — these values were synthetic. See the erratum under [Unreleased].**
 - Schema documentation in `schema/columns.md`.
 - Methodology documentation in `METHODOLOGY.md` mirroring [pretcarburant.ro/metodologie](https://pretcarburant.ro/metodologie).
 - Code examples for Python (pandas), R and Excel/Sheets.

@@ -2,7 +2,7 @@
 
 # Prețuri Carburanți România — Date Deschise
 
-**Set de date public, citabil academic, cu istoric din 2015 până azi.**
+**Set de date public, citabil academic. Seria măsurată începe la 18 martie 2026.**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Licen%C8%9B%C4%83-CC_BY_4.0-blue.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19560194-orange.svg?style=flat-square)](https://doi.org/10.5281/zenodo.19560194)
