@@ -28,7 +28,7 @@ The schema is **stable and additive** — new columns may be appended in future 
 ## Price units and currency
 
 - All prices are in **Romanian Leu per litre (RON/L)**.
-- Prices are **gross retail prices** as displayed at the pump — they include VAT (currently 19%), excise duties, and the green stamp where applicable.
+- Prices are **gross retail prices** as displayed at the pump — they include VAT (21% since 1 August 2025), excise duties, and the green stamp where applicable.
 - Two decimal places throughout. Half-up rounding from the underlying observations.
 
 ## Validation bounds
@@ -37,9 +37,10 @@ Outliers are filtered using these absolute bounds before aggregation. Observatio
 
 | Fuel | Min RON/L | Max RON/L |
 |---|---|---|
-| benzina_standard, benzina_premium | 5.50 | 12.00 |
-| motorina_standard, motorina_premium | 5.50 | 13.00 |
-| gpl | 2.50 | 6.00 |
+| benzina_standard | 7.90 | 12.00 |
+| benzina_premium | 8.50 | 12.50 |
+| motorina_standard, motorina_premium | 8.00 | 13.00 |
+| gpl | 3.30 | 6.00 |
 
 Bounds may be revised over time as the market shifts; revisions are documented in `CHANGELOG.md`.
 

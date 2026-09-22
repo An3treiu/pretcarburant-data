@@ -41,9 +41,10 @@ Observațiile în afara acestor praguri sunt excluse:
 
 | Combustibil | Min RON/L | Max RON/L |
 |---|---|---|
-| benzina_standard, benzina_premium | 5.50 | 12.00 |
-| motorina_standard, motorina_premium | 5.50 | 13.00 |
-| gpl | 2.50 | 6.00 |
+| benzina_standard | 7.90 | 12.00 |
+| benzina_premium | 8.50 | 12.50 |
+| motorina_standard, motorina_premium | 8.00 | 13.00 |
+| gpl | 3.30 | 6.00 |
 
 ### Normalizare brand-uri
 
