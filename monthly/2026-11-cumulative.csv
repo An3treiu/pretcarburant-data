@@ -1105,3 +1105,8 @@ date,fuel_type,price_min,price_avg,price_max,station_count
 2026-11-03,gpl,4.46,4.71,5.00,327
 2026-11-03,motorina_premium,11.28,11.80,11.92,1306
 2026-11-03,motorina_standard,10.75,10.94,11.01,1362
+2026-11-04,benzina_premium,10.48,10.58,10.69,1219
+2026-11-04,benzina_standard,9.94,10.00,10.07,1361
+2026-11-04,gpl,4.48,4.71,5.00,327
+2026-11-04,motorina_premium,11.28,11.80,11.93,1306
+2026-11-04,motorina_standard,10.75,10.94,10.99,1362
